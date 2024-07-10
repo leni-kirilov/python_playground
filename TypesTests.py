@@ -1,7 +1,5 @@
-# TODO write unit tests
 import unittest
 import os
-
 
 class TypesTests(unittest.TestCase):
 
