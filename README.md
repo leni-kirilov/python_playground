@@ -1,4 +1,5 @@
-Python playground to remind myself of python
+Python playground
+-----------------
 
 TODO
 - build a CI running unit tests
